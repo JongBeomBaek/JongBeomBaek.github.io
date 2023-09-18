@@ -1,3 +1,13 @@
+# Baem's Blog
+
+Hello everyone, this is Jongbeom Baek development blog. 
+
+I made this blog using 'minimal mistake' theme.
+
+Overall making blog step follow [here](https://devinlife.com/howto/)
+
+(if you want to make your blog, follow upper link. I strongly recommand this site)
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
