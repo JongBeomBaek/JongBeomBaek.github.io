@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Baem's Blog"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Hoc quoque transibit"
 name                     : "Jongbeom Baek"
 description              : "An amazing website."
 url                      : "https://jongbeombaek.github.io"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JongBAEM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Steady"
+  location         : "South Korea"
+  email            : "bjb1995@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
