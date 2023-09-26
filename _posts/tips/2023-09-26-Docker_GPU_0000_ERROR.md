@@ -1,8 +1,14 @@
 ---
 layout: post
 titile: "Docker GPU[0000] ERROR"
+category :
+    - tips
+tag :
+    - tips
+toc : true
+toc_sticky: true
+comments: true
 ---
-
 # Docker GPU[0000] ERROR
 
 딥러닝 도커를 하다보면
@@ -32,4 +38,4 @@ sudo systemctl restart docker
 ```
 --------------
 ### Reference
-[github issue](https://github.com/NVIDIA/nvidia-docker/issues/1034)
+[Github Issue Link](https://github.com/NVIDIA/nvidia-docker/issues/1034)
