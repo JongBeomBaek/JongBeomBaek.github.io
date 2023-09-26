@@ -2,9 +2,9 @@
 title: "[Dev Tips] Docker GPU[0000] ERROR"
 excerpt: "Nvidia Docker Error를 해결해보자~"
 category :
-    - tips
+    - Develop Tips
 tag :
-    - tips
+    - Develop Tips, Docker, NVIDIA 
 toc : true
 toc_sticky: true
 comments: true
