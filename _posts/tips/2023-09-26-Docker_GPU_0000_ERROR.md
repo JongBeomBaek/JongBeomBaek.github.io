@@ -8,8 +8,8 @@ titile: "Docker GPU[0000] ERROR"
 딥러닝 도커를 하다보면
 ![image](/assets/images/23_4/docker_error.png)
 
-__docker: Error response from daemon: could not select device driver "" with capabilities: [[gpu]].
-ERRO[0000] error waiting for container: context canceled__
+__docker: Error response from daemon: could not select device driver "" with capabilities: [[gpu]].__
+__ERRO[0000] error waiting for container: context canceled__
 
 이런 에러를 많이 접하게 되실텐데요. [](/_posts/tips/2023-09-18-solve_graphic_card_collision_problem.md)
  
@@ -32,4 +32,4 @@ sudo systemctl restart docker
 ```
 --------------
 ### Reference
-https://github.com/NVIDIA/nvidia-docker/issues/1034
+[github issue](https://github.com/NVIDIA/nvidia-docker/issues/1034)
