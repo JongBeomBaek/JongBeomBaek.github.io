@@ -1,5 +1,6 @@
 ---
-titile: "Ubuntu 16.04 & 18.04 LTS NVIDIA 그래픽 카드 충돌 문제 해결하기"
+title: "[Dev Tips] NVIDIA 그래픽카드 드라이버 충돌 문제 해결하기"
+excerpt: "그래픽카드 드라이버 충돌 문제를 해결해보자~"
 category :
     - tips
 tag :
@@ -9,7 +10,7 @@ toc_sticky: true
 comments: true
 ---
 
-# Ubuntu 16.04 & 18.04 LTS NVIDIA 그래픽 카드 충돌 문제 해결하기~
+# NVIDIA 그래픽카드 드라이버 충돌 문제 해결하기
 
 ## 문제점
 리눅스를 사용하다보면 대부분의 사람들이 한번쯤을 겪을 만한 

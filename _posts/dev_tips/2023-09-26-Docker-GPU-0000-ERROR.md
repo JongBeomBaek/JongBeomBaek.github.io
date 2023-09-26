@@ -1,5 +1,6 @@
 ---
-titile: "Docker GPU[0000] ERROR"
+title: "[Dev Tips] Docker GPU[0000] ERROR"
+excerpt: "Nvidia Docker Error를 해결해보자~"
 category :
     - tips
 tag :
@@ -11,7 +12,7 @@ comments: true
 
 # Docker GPU[0000] ERROR
 
-딥러닝 도커를 하다보면
+딥러닝 도커(Nvidia-docker)를 하다보면
 ![image](/assets/images/23_4/docker_error.png)
 
 __docker: Error response from daemon: could not select device driver "" with capabilities: [[gpu]].__
