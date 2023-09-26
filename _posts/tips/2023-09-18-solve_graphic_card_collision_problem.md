@@ -1,5 +1,4 @@
 ---
-layout: post
 titile: "Ubuntu 16.04 & 18.04 LTS NVIDIA 그래픽 카드 충돌 문제 해결하기"
 category :
     - tips
