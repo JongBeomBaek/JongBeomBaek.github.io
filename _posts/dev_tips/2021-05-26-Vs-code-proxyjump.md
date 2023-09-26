@@ -35,7 +35,7 @@ __HostName:__ 주소 (집주소처럼 위치를 나타내는거겠죠? 번호로
 __Port:__ 집 을 들어가는 문 (집을 들어가는데 여러개의 문이 있지만 통신 규격에따라  문을 따고 들어가야합니다 보통 ssh는 22번을 따릅니다 하지만 라우터나 공유기와같이 중간에서 관리해주는 장치가 있으면 port fowarding을 통해서 컴퓨터마다 구별을 합니다)
 
 이렇게 정보가 구성되어있다면
-![img1](/assets/images/23_4/vscode_proxyjump_2.png)
+![img2](/assets/images/23_4/vscode_proxyjump_2.png)
 
 이렇게 왼쪽 배너에 생기고 클릭하여 접속할 수 있습니다
 
@@ -56,18 +56,18 @@ __Port:__ 집 을 들어가는 문 (집을 들어가는데 여러개의 문이 �
 local > B로 직접적으로 가는건 불가능하지만 터미널로 접속해들어가면 local > A > B가 가능하죠
  
 그걸 하기 위해서는 다음과 같이 config파일에 작성해주면됩니다 매우 쉬운데요
-![img1](/assets/images/23_4/vscode_proxyjump_3.png)
+![img3](/assets/images/23_4/vscode_proxyjump_3.png)
 
 이렇게 B컴퓨터도 정보에 맞게 입력을 하고
 ProxyJump라는 새로운 정보를 기입해주어야하는데요 
 이게무엇이냐면 __computer_A를 접속한뒤에 B로 접속하여 위에서 터미널처럼 한것처럼 우회해서 접속하는것 입니다.__
 
 이렇게 해서 접속을 하게되면
-![img1](/assets/images/23_4/vscode_proxyjump_4.png)
+![img4](/assets/images/23_4/vscode_proxyjump_4.png)
 
 
 A컴퓨터의 접속하기 위한 비밀번호를 치는 창이 나오고
-![img1](/assets/images/23_4/vscode_proxyjump_5.png)
+![img5](/assets/images/23_4/vscode_proxyjump_5.png)
 
 
 최종 목표인 B컴퓨터에 접속하기 위한 비밀번호 창이 나옵니다
