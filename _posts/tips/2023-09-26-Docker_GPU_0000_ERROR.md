@@ -1,5 +1,4 @@
 ---
-layout: post
 titile: "Docker GPU[0000] ERROR"
 category :
     - tips
