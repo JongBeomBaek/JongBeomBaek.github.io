@@ -4,7 +4,8 @@ excerpt: "그래픽카드 드라이버 충돌 문제를 해결해보자~"
 category :
     - Develop Tips
 tag :
-    - Develop Tips, NVIDIA
+    - Develop Tips
+    - NVIDIA
 toc : true
 toc_sticky: true
 comments: true
@@ -68,7 +69,7 @@ Nvidia graphic driver가 있는 파일로 이동합니다
 그리고 다음과 같이 명령어를 실행해 줍니다
 
 ```shell
-sudo service lightdm stop (16.04만 해당함 18.04는 이부분안하셔도 됩니다!) 
+sudo service lightdm stop  # (16.04만 해당함 18.04는 이부분안하셔도 됩니다!) 
 ./NVIDIA-Linux-x86_64-440.82.run
 ```
 

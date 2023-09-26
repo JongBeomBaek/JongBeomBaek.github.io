@@ -4,7 +4,10 @@ excerpt: "VS Code ProxyJump: ssh를 우회해서 접속해보자!"
 category :
     - Develop Tips
 tag :
-    - Develop Tips, SSH, VS-Code, ProxyJump
+    - Develop Tips
+    - SSH
+    - VS-Code
+    - ProxyJump
 toc : true
 toc_sticky: true
 comments: true
