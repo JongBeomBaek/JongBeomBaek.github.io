@@ -4,7 +4,9 @@ excerpt: "Nvidia Docker Error를 해결해보자~"
 category :
     - Develop Tips
 tag :
-    - Develop Tips, Docker, NVIDIA 
+    - Develop Tips
+    - Docker
+    - NVIDIA 
 toc : true
 toc_sticky: true
 comments: true
