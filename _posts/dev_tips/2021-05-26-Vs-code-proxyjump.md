@@ -2,9 +2,9 @@
 title: "[Dev Tips] VS Code ProxyJump"
 excerpt: "VS Code ProxyJump: ssh를 우회해서 접속해보자!"
 category :
-    - Develop Tips
+    - Develop_Tips
 tag :
-    - Develop Tips
+    - Develop_Tips
     - SSH
     - VS-Code
     - ProxyJump

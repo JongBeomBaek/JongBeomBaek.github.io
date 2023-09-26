@@ -2,9 +2,9 @@
 title: "[Dev Tips] NVIDIA 그래픽카드 드라이버 충돌 문제 해결하기"
 excerpt: "그래픽카드 드라이버 충돌 문제를 해결해보자~"
 category :
-    - Develop Tips
+    - Develop_Tips
 tag :
-    - Develop Tips
+    - Develop_Tips
     - NVIDIA
 toc : true
 toc_sticky: true
