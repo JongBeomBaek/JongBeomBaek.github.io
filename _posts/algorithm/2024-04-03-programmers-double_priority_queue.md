@@ -17,7 +17,7 @@ comments: true
 [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
 ## 풀이
-같은 난이도인 [디스크 컨트롤러](2024-04-03-programmers-disk_controller) 에 비해서 쉬웠다.
+같은 난이도인 [디스크 컨트롤러](_posts/algorithm/2024-04-03-programmers-disk_controller) 에 비해서 쉬웠다.
 힙으로 정렬되어 있음으로
 - 'D 1':	큐에서 최댓값을 삭제합니다. = 그냥 list pop **(맨 뒤 = 제일 큰 원소 빼기)**
 - 'D -1':	큐에서 최솟값을 삭제합니다. = heap.pop **(맨 앞 = 제일 작은 원소 빼기)**
