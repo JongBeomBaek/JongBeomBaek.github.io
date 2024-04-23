@@ -17,7 +17,7 @@ comments: true
 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
 
 ## 풀이
-앞에서 문제로 푼 [더 맵게](2024-04-03-programmers-more_spicy.md) 에서 힙에 대한 내용을 다뤄
+앞에서 문제로 푼 [더 맵게](https://jongbeombaek.github.io/algorithm/programmers-more_spicy/) 에서 힙에 대한 내용을 다뤄
 힙에 대한 설명은 생략하도록 하겠다.
 이문제는 고려해야할 요소들이 좀 많아서 처음에 어렵게 느껴질 수 있다.
 시작시간이 마냥 작은거 위주로 하기에는 나머지가 버리는 시간이 늘어나는 점이 있기에 
