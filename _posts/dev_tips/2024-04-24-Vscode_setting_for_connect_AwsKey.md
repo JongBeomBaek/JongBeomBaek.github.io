@@ -31,7 +31,7 @@ config file에서 다음값들을 설정한다.
 ### AWS 접속을 위한 key 세팅
 이번 포스팅에서 중요한건 AWS를 접속하기 위한 방법이다
 "**IdentityFile**" 이다 이 부분에 .pem 확장자를 가진 파일 경로를 입력해주어야 인증받아 접속할 수 있다.
-```shell
+```c
 Host __Nick_Name__
     HostName __IP_Address__
     User __User_ID__
