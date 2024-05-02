@@ -31,4 +31,4 @@ icacls.exe ec2.pem /inheritance:r
 ```
 
 vs code 접속방법은 다음 링크를 참고하면 된다.
-[vscode에서 .pem 키로 서버(aws) 접속]()
+[vscode에서 .pem 키로 서버(aws) 접속](https://jongbeombaek.github.io/develop%20tips/Vscode_setting_for_connect_AwsKey/#aws-접속을-위한-key-세팅)
