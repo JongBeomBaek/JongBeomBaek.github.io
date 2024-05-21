@@ -72,3 +72,15 @@ def solution(tickets):
 ## 후기
 처음에는 ICN 이 시작인 조건을 안보고 앞뒤로 붙일 수 있는 코드를 작성하여 실패하였다.... (역시 문제는 꼼꼼히 읽기...)
 이외에도 스터디원들의 코드를 보면 중간중간 sorting을 섞어서하는 코드가 있는데 시간이 남을 경우 비교해봐야겠다.
+
+### 추가적인 tip
+처음에는 deque 라이브러리를 활용하려고 했는데 
+```
+TypeError: Object of type deque is not JSON serializable
+```
+다음과 같은 에러가 발생하였다.
+return 해줄때 deque 자료형 자체를 return해서 발생하는 에러였다.
+```
+return answer       # X : Error 
+return list(answer) # O
+```
