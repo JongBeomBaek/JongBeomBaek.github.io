@@ -23,8 +23,8 @@ circular queue와 같이 원형으로 이루어진 스티커들이 있다.
 
 ### 참고하면 좋은 사이트
 풀이를 보기전에 참고를 통해 혼자 풀고싶으시다면 해당 사이트를 보시는걸 추천드립니다.
-- https://school.programmers.co.kr/questions/53853
-- https://school.programmers.co.kr/questions/24769
+- [https://school.programmers.co.kr/questions/53853]
+- [https://school.programmers.co.kr/questions/24769]
 
 ### 코드설명
 먼저 스티커 개수에 따라 문제를 다르게 풀었다.
